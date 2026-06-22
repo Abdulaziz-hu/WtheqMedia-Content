@@ -1,7 +1,13 @@
 ---
-title: "This is a Test Blog"
-date: "2026-11-10"
-description: "A full feature test: images, video, audio, code blocks, links, lists, blockquotes, and more."
+title: "عنوان المشروع"
+excerpt: "وصف قصير"
+cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgI3fF6_ebdidZr1lnTEvKusZLVuw2ZKsrhm_Xtxn6ZdQlOo9PBRq1v2VW&s=10"          # cover image URL
+author: "عبدالعزيز الحزامي"
+tags: [توثيق, سينما]
+category: "أفلام قصيرة"
+youtube: "VIDEO_ID"           # YouTube video ID only, not full URL
+files: "https://..."          # download link for project files
+bts: "https://..."            # behind-the-scenes video URL
 ---
 
 ## Introduction
